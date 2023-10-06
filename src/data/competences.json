@@ -1,0 +1,144 @@
+[
+  {
+    "type": "web",
+    "titre": "html",
+    "image": "fab fa-html5",
+    "number": 6,
+    "color": "orange-400",
+    "features": [
+      "les bases",
+      "elements",
+      "attribut",
+      "responsive"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "css",
+    "image": "fab fa-css3",
+    "number": 5,
+    "color": "sky-400",
+    "features": [
+      "les bases",
+      "transform",
+      "flexbox",
+      "grid",
+      "responsive"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "javascript",
+    "image": "fab fa-js",
+    "number": 5,
+    "color": "yellow-400",
+    "features": [
+      "les bases",
+      "object",
+      "array",
+      "event",
+      "loop",
+      "json"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "php",
+    "image": "fab fa-php",
+    "number": 4,
+    "color": "indigo-500",
+    "features": [
+      "les bases",
+      "object",
+      "session",
+      "loop",
+      "json"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "react",
+    "image": "fab fa-react",
+    "number": 5,
+    "color": "blue-400",
+    "features": [
+      "les bases",
+      "ES6",
+      "JSX",
+      "function",
+      "class"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "laravel",
+    "image": "fab fa-laravel",
+    "number": 4,
+    "color": "red-500",
+    "features": [
+      "les bases",
+      "object",
+      "function",
+      "class"
+    ]
+  },
+  {
+    "type": "langue",
+    "titre": "Malagasy",
+    "image": "fa fa-spell-check",
+    "number": 6,
+    "color": "white",
+    "features": [
+      "les bases",
+      "parle",
+      "ecrit"
+    ]
+  },
+  {
+    "type": "langue",
+    "titre": "Francais",
+    "image": "fa fa-spell-check",
+    "number": 5,
+    "color": "blue-500",
+    "features": [
+      "les bases",
+      "parle",
+      "ecrit"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "nodejs",
+    "image": "fab fa-node-js",
+    "number": 4,
+    "color": "green-600",
+    "features": [
+      "les bases",
+      "module",
+      "filesystem",
+      "npm"
+    ]
+  },
+  {
+    "type": "langue",
+    "titre": "anglais",
+    "image": "fa fa-spell-check",
+    "number": 4,
+    "color": "red-500",
+    "features": [
+      "les bases",
+      "ecrit"
+    ]
+  },
+  {
+    "type": "web",
+    "titre": "github",
+    "image": "fab fa-github",
+    "number": 4,
+    "color": "gray-400",
+    "features": [
+      "les bases",
+      "ecrit"
+    ]
+  }
+]

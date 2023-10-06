@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(assets/fontawesome/css/all.min.css);
+
+@import url(assets/simple-line-icons/css/simple-line-icons.css);
+
+* {
+  scroll-behavior: smooth;
+}
+
+#nav-caption {
+  transition-duration: 200ms;
+  transition-timing-function: ease-in-out;
+}
+
+@keyframes my-animate-point {
+
+  0%,
+  100% {
+    transform: translateX(25%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+
+  50% {
+    transform: none;
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+
+}
+
+.my-animate-point {
+  animation: my-animate-point 1s infinite;
+}
+
+/* @keyframes my-animate-point {
+  80% {
+    transform: translateX(20px);
+  }
+} */

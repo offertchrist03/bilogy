@@ -1,0 +1,20 @@
+[
+  {
+    "id": "service-1",
+    "image": "sli icon-note",
+    "type": "cours",
+    "titre": "cours particulier",
+    "icon": "sli icon-mustache",
+    "color": "green-500",
+    "number": 5
+  },
+  {
+    "id": "service-2",
+    "image": "sli icon-globe-alt",
+    "type": "creation",
+    "titre": "creation de votre site",
+    "icon": "sli icon-star",
+    "color": "red-500",
+    "number": 5
+  }
+]
